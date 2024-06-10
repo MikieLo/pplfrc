@@ -1,0 +1,117 @@
+{
+  "auth": {
+    "headings": {
+      "welcome": "Добро пожаловать в PeopleForce"
+    },
+    "phrases": {
+      "enter_domain": "Введите домен своей компании.",
+      "enter_siteurl": "Введите адрес своей компании.",
+      "enter_login": "Введите свой логин и пароль.",
+      "enter_email": "Введите свою эл. почту и пароль.",
+      "find_you_domain": "Нужна помощь в поиске домена вашей компании?",
+      "find_you_siteurl": "Нужна помощь в поиске адреса вашей компании?",
+      "find_you_address_hint": "Посмотрите на адрес вашего PeopleForce в браузере ",
+      "using_hosting": "Используете ",
+      "two_factor_required": "Для этой учетной записи включена двухфакторная аутентификация. Введите код, показанный в приложении для аутентификации."
+    },
+    "placeholders": {
+      "company_domain": "Домен компании",
+      "site_url": "Адрес сайта",
+      "login": "Логин",
+      "email": "Эл. почта",
+      "password": "Пароль"
+    },
+    "buttons": {
+      "sign_in": "Войти",
+      "company_login": "Корпоративный вход",
+      "google_login": "Вход с Google",
+      "change_domain": "Изменить домен",
+      "back_to_sign_in": "Вернуться к входу"
+    }
+  },
+  "errors": {
+    "invalid_subdomain": "Неправильный домен компании.",
+    "invalid_credentials": "Неправильный логин или пароль.",
+    "otp_token_expired": "Срок действия сеанса аутентификации для вашего одноразового пароля истек.",
+    "otp_invalid": "Введенный код больше недействителен.",
+    "insufficient_permissions": "Недостаточно разрешений.",
+    "candidate_parsing_error": "Произошла ошибка при обработке кандидата.",
+    "user_not_found": "Не найден пользователь с указанным электронным адресом"
+  },
+  "common": {
+    "buttons": {
+      "create": "Создать",
+      "cancel": "Отменить",
+      "search": "Поиск",
+      "save": "Сохранить",
+      "edit": "Редактировать"
+    },
+    "phrases": {
+      "processing": "Обрабатываем..."
+    }
+  },
+  "main": {
+    "placeholders": {
+      "search": "Поиск кандидатов"
+    },
+    "phrases": {
+      "candidates_found": "Кандидатов найдено",
+      "matched_by_link": "Соответсвует по ссылке",
+      "matched_by_name": "Соответсвует по имени",
+      "active_applications_count": "Количество активных заявок кандидата",
+      "disqualified_applications_count": "Количество отказов по вакансиям"
+    },
+    "buttons": {
+      "add": "Добавить нового кандидата",
+      "account_options": "Настройки аккаунта",
+      "logout": "Выйти",
+      "about": "О PeopleForce",
+      "whats_new": "Что нового",
+      "how_to_use": "Как использовать"
+    }
+  },
+  "account_options": {
+    "headings": {
+      "title": "Настройки аккаунта"
+    }
+  },
+  "candidate_screen": {
+    "headings": {
+      "add_title": "Добавить кандидата",
+      "edit_title": "Редактировать кандидата"
+    },
+    "placeholders": {
+      "select_one": "Выберите",
+      "enter_skills": "Введите новый навык",
+      "add_skill": "+ Навык",
+      "no_file_chosen": "Файл не выбран",
+      "attach_file": "Прикрепить файл",
+      "note": "Добавьте заметку об этом кандитате"
+    },
+    "labels": {
+      "full_name": "ФИО",
+      "first_name": "Имя",
+      "last_name": "Фамилия",
+      "email": "Эл. почта",
+      "source": "Источник",
+      "vacancy": "Вакансия",
+      "resume": "Резюме",
+      "phone_number": "Телефон",
+      "skills": "Навыки",
+      "tags": "Теги",
+      "note": "Заметка"
+    },
+    "modals": {
+      "already_exists_header": "Кандидат уже существует",
+      "already_exists_message": "Вы хотите отредактировать его?"
+    },
+    "phrases": {
+      "created": "Ваш кандидат был успешно добавлен в систему.",
+      "updated": "Кандидат обновлен."
+    }
+  },
+  "select": {
+    "filter_empty_text": "Нет результатов",
+    "filter_placeholder_text": "Введите текст"
+  }
+}

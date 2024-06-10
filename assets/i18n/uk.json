@@ -1,0 +1,117 @@
+{
+  "auth": {
+    "headings": {
+      "welcome": "Ласкаво просимо до PeopleForce"
+    },
+    "phrases": {
+      "enter_domain": "Введіть домен своєї компанії.",
+      "enter_siteurl": "Введіть адресу своєї компанії.",
+      "enter_login": "Введіть свій логін та пароль.",
+      "enter_email": "Введіть свою ел. пошту та пароль.",
+      "find_you_domain": "Потрібна допомога у пошуку домену вашої компанії?",
+      "find_you_siteurl": "Потрібна допомога у пошуку адреси вашої компанії?",
+      "find_you_address_hint": "Подивіться на адресу вашого PeopleForce в браузері ",
+      "using_hosting": "Використовуєте ",
+      "two_factor_required": "Для цього облікового запису ввімкнено двофакторну автентифікацію. Введіть код, який відображається у вашій програмі автентифікації."
+    },
+    "placeholders": {
+      "company_domain": "Домен компанії",
+      "site_url": "Адреса сайту",
+      "login": "Логін",
+      "email": "Ел. пошта",
+      "password": "Пароль"
+    },
+    "buttons": {
+      "sign_in": "Увійти",
+      "company_login": "Корпоративний вхід",
+      "google_login": "Вхід з Google",
+      "change_domain": "Змінити домен",
+      "back_to_sign_in": "Назад до входу"
+    }
+  },
+  "errors": {
+    "invalid_subdomain": "Невірний домен компанії.",
+    "invalid_credentials": "Невірний логін або пароль.",
+    "otp_token_expired": "Сеанс автентифікації для вашого одноразового пароля закінчився.",
+    "otp_invalid": "Введений код більше не дійсний.",
+    "insufficient_permissions": "Недостатньо дозволів.",
+    "candidate_parsing_error": "Під час обробки кандидата сталася помилка",
+    "user_not_found": "Не знайдено користувача з указаною електронною адресою"
+  },
+  "common": {
+    "buttons": {
+      "create": "Створити",
+      "cancel": "Відмінити",
+      "search": "Пошук",
+      "save": "Зберегти",
+      "edit": "Редагувати"
+    },
+    "phrases": {
+      "processing": "Опрацьовуємо..."
+    }
+  },
+  "main": {
+    "placeholders": {
+      "search": "Пошук кандидатів"
+    },
+    "phrases": {
+      "candidates_found": "Кандидатів знайдено",
+      "matched_by_link": "Відповідає за посиланням",
+      "matched_by_name": "Відповідає по імені",
+      "active_applications_count": "Кількість активних заявок кандидата",
+      "disqualified_applications_count": "Кількість відмов по вакансіям"
+    },
+    "buttons": {
+      "add": "Додати нового кандидата",
+      "account_options": "Налаштування аккаунту",
+      "logout": "Вийти",
+      "about": "Про PeopleForce",
+      "whats_new": "Що нового",
+      "how_to_use": "Як використовувати"
+    }
+  },
+  "account_options": {
+    "headings": {
+      "title": "Налаштування аккаунту"
+    }
+  },
+  "candidate_screen": {
+    "headings": {
+      "add_title": "Додавання кандидата",
+      "edit_title": "Редагування кандидата"
+    },
+    "placeholders": {
+      "select_one": "Оберіть",
+      "enter_skills": "Введіть новий навик",
+      "add_skill": "+ Навик",
+      "no_file_chosen": "Файл не вибрано",
+      "attach_file": "Прикріпити файл",
+      "note": "Додайте примітку про цього кандидата"
+    },
+    "labels": {
+      "full_name": "ПІБ",
+      "first_name": "Ім'я",
+      "last_name": "Прізвище",
+      "email": "Ел. пошта",
+      "source": "Джерело",
+      "vacancy": "Вакансія",
+      "resume": "Резюме",
+      "phone_number": "Телефон",
+      "skills": "Навики",
+      "tags": "Теги",
+      "note": "Примітка"
+    },
+    "modals": {
+      "already_exists_header": "Кандидат вже існує",
+      "already_exists_message": "Ви бажаєте редагувати його?"
+    },
+    "phrases": {
+      "created": "Кандидат був успішно доданий до системи.",
+      "updated": "Кандидат оновлений."
+    }
+  },
+  "select": {
+    "filter_empty_text": "Немає результатів",
+    "filter_placeholder_text": "Введіть текст"
+  }
+}

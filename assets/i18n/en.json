@@ -1,0 +1,117 @@
+{
+  "auth": {
+    "headings": {
+      "welcome": "Welcome to PeopleForce"
+    },
+    "phrases": {
+      "enter_domain": "Enter your PeopleForce domain to login.",
+      "enter_siteurl": "Enter your PeopleForce site URL to login.",
+      "enter_login": "Enter your login and password to log in.",
+      "enter_email": "Enter your email and password to log in.",
+      "find_you_domain": "Need help finding you company's domain?",
+      "find_you_siteurl": "Need help finding you site URL?",
+      "find_you_address_hint": "Look at your PeopleForce address in browser ",
+      "using_hosting": "Using ",
+      "two_factor_required": "Two factor authentication is enabled for this account. Enter the code shown in your authentication app."
+    },
+    "placeholders": {
+      "company_domain": "Company domain",
+      "site_url": "Site url",
+      "login": "Login",
+      "email": "Email",
+      "password": "Password"
+    },
+    "buttons": {
+      "sign_in": "Sign in",
+      "company_login": "Company login",
+      "google_login": "Login with Google",
+      "change_domain": "Change domain",
+      "back_to_sign_in": "Back to sign in"
+    }
+  },
+  "errors": {
+    "invalid_subdomain": "Invalid company domain.",
+    "invalid_credentials": "Invalid login credentials.",
+    "otp_token_expired": "The authentication session for your one-time password has expired.",
+    "otp_invalid": "The code you entered is no longer valid.",
+    "insufficient_permissions": "Insufficient permissions.",
+    "candidate_parsing_error": "An error occurred while processing the candidate.",
+    "user_not_found": "User not found with provided email address"
+  },
+  "common": {
+    "buttons": {
+      "create": "Create",
+      "cancel": "Cancel",
+      "search": "Search",
+      "save": "Save",
+      "edit": "Edit"
+    },
+    "phrases": {
+      "processing": "Processing..."
+    }
+  },
+  "main": {
+    "placeholders": {
+      "search": "Search candidates"
+    },
+    "phrases": {
+      "candidates_found": "Candidates found",
+      "matched_by_link": "Matched by link",
+      "matched_by_name": "Matched by name",
+      "active_applications_count": "Number of active applications",
+      "disqualified_applications_count": "Number of disqualified applications"
+    },
+    "buttons": {
+      "add": "Add new candidate",
+      "account_options": "Account options",
+      "logout": "Logout",
+      "about": "About PeopleForce",
+      "whats_new": "What's new",
+      "how_to_use": "How to use"
+    }
+  },
+  "account_options": {
+    "headings": {
+      "title": "Account options"
+    }
+  },
+  "candidate_screen": {
+    "headings": {
+      "add_title": "Add candidate",
+      "edit_title": "Edit candidate"
+    },
+    "labels": {
+      "full_name": "Full name",
+      "first_name": "First name",
+      "last_name": "Last name",
+      "email": "Email",
+      "source": "Source",
+      "vacancy": "Vacancy",
+      "resume": "Resume",
+      "phone_number": "Phone",
+      "skills": "Skills",
+      "tags": "Tags",
+      "note": "Note"
+    },
+    "placeholders": {
+      "select_one": "Select one",
+      "enter_skills": "Enter a new skill",
+      "add_skill": "+ Skill",
+      "no_file_chosen": "No file chosen",
+      "attach_file": "Attach file",
+      "note": "Add a team note about this candidate"
+    },
+    "modals": {
+      "already_exists_header": "Candidate already exists",
+      "already_exists_message": "Would you like to edit it?"
+    },
+    "phrases": {
+      "created": "Your candidate has been added into PeopleForce.",
+      "updated": "Candidate has been updated."
+    }
+  },
+  "select": {
+    "filter_empty_text": "No results",
+    "filter_placeholder_text": "Type to filter"
+  }
+}
