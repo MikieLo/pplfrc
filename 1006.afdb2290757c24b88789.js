@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkpeopleforce_prospector=self.webpackChunkpeopleforce_prospector||[]).push([[1006],{1006:(_,e,o)=>{o.r(e),o.d(e,{ion_text:()=>c});var s=o(3652),l=o(4825),n=o(1526);const c=class{constructor(t){(0,s.r)(this,t)}render(){const t=(0,l.b)(this);return(0,s.h)(s.H,{class:(0,n.c)(this.color,{[t]:!0})},(0,s.h)("slot",null))}};c.style=":host(.ion-color){color:var(--ion-color-base)}"}}]);
+//# sourceMappingURL=1006.afdb2290757c24b88789.js.map
